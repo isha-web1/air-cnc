@@ -9,4 +9,6 @@ Github Repo -> [Complete](https://github.com/shakilahmedatik/aircnc-part1-comple
 ## Resources Repository:
 Github Repo -> [Resources](https://github.com/shakilahmedatik/aircnc-resources)
 
+## my part of life
+
 
